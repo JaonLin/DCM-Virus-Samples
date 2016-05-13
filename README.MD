@@ -26,6 +26,10 @@ version is provided for convinence.
 This is the exact version used in the analysis article on Freebuf. So
 I will personally reference it as `DCM-0`.
 
+The resource files in the unpacked executable is encrypted with simple
+XOR algorithm. (implemented in `sub_4011C0`) I added a decryption
+script for your convinence.
+
 #### `89a5257fd9415b68ceab4a2122f70b45`
 
 **Report:** https://totalhash.cymru.com/analysis/?823daa3fe3c32c32573b0317b488db901a191018
