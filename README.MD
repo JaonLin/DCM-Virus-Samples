@@ -24,11 +24,12 @@ version is provided for convinence.
 **Report:** http://r.virscan.org/report/fee007c110eeb4dfdba508120ab6bef4
 
 This is the exact version used in the analysis article on Freebuf. So
-I will personally reference it as `DCM-0`.
+I will personally refer it as `DCM-0`.
 
 The resource files in the unpacked executable is encrypted with simple
 XOR algorithm. (implemented in `sub_4011C0`) I added a decryption
-script for your convinence.
+script for your convinence. The extracted and decrypted resource files
+are also included.
 
 #### `89a5257fd9415b68ceab4a2122f70b45`
 
