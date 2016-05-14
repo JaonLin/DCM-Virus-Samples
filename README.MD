@@ -31,6 +31,15 @@ XOR algorithm. (implemented in `sub_4011C0`) I added a decryption
 script for your convinence. The extracted and decrypted resource files
 are also included.
 
+#### `1b7cd62b71235443cf267bd9104679dd`
+
+**Report:** https://totalhash.cymru.com/analysis/?fbbbc68a4b56c9c70487753be3c26f4293e79ec9
+
+This version has the same program structure as `DCM-0`. Even the
+resource files are encrypted with the same algorithm. However the binary
+seems to be a slightly larger than `DCM-0` thus I would guess it's an
+upgraded version to `DCM-0`.
+
 #### `89a5257fd9415b68ceab4a2122f70b45`
 
 **Report:** https://totalhash.cymru.com/analysis/?823daa3fe3c32c32573b0317b488db901a191018
