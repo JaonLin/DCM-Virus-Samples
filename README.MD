@@ -53,6 +53,16 @@ characteristics on the report.
 
 This version is basically the same as `DCM-0` with some minor changes.
 
+#### `82304a0a2ab419f657a4e9d8319c1e99`
+
+**Report:** https://totalhash.cymru.com/analysis/?6f31aa2d01c5a67744fa8688933ae31dfc5a9c0d
+
+This sample is reported to create mutex named `Global\I_AM_EXIST!!`,
+which is an identifier of the DCM behaviour. However it lacks of any
+other behaviour that a typical DCM virus should has. Therefore I think
+it's actually an early or experimental version of `DCM-0`. It even doesn't
+encrypt its resource files.
+
 #### `1b2f0cbd3f048ee9f3e9885d4076ce8c`
 
 **Report:** https://home.mcafee.com/virusinfo/virusprofile.aspx?key=2236045
