@@ -71,6 +71,10 @@ I believe it's an early version DCM virus due to the small file size,
 and lack of most of the behaviour characteristics of `DCM-0`. However,
 it does generate `%TEMP%\{E53B9A13-F4C6-4d78-9755-65C029E88F02}\soft.prog`
 and other core files that we can be certain that it's a variation of DCM.
+Unlike `82304a0a2ab419f657a4e9d8319c1e99`, this version uses XOR encryption
+for its resource files, but is slightly different than the algorithm used
+in `DCM-0` in terms of parameters. Thus I think it's a development upgrade
+of `82304a0a2ab419f657a4e9d8319c1e99`.
 
 [1]: http://www.freebuf.com/articles/system/101447.html
 [2]: https://www.v2ex.com/t/271590
