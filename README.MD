@@ -40,6 +40,13 @@ resource files are encrypted with the same algorithm. However the binary
 seems to be a slightly larger than `DCM-0` thus I would guess it's an
 upgraded version to `DCM-0`.
 
+#### `261f4bbc423d79a1115840f300d5daf0`
+
+**Report:** https://totalhash.cymru.com/analysis/?30161f778c28443b40b5cef76dc977b0c2c4c352
+
+This version is another slightly changed `DCM-0`. It has less behaviour
+characteristics on the report.
+
 #### `89a5257fd9415b68ceab4a2122f70b45`
 
 **Report:** https://totalhash.cymru.com/analysis/?823daa3fe3c32c32573b0317b488db901a191018
